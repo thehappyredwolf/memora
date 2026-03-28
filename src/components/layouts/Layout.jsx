@@ -4,7 +4,7 @@ export default function Layout(props) {
   return (
     <>
       <header>
-        <h1 className="text-gradient">Vocably</h1>
+        <h1 className="text-gradient">Memora</h1>
       </header>
       <main>{children}</main>
       <footer>
